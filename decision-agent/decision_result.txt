@@ -1,0 +1,52 @@
+======================================================================
+DECISION AGENT RECOMMENDATION
+======================================================================
+
+📋 YOUR QUESTION:
+Which project management tool should I use for a small software team?
+
+
+🎯 MY RECOMMENDATION:
+**Linear**
+
+Fast, opinionated project management for software teams
+
+
+💡 KEY REASONING:
+We recommend Linear because:
+
+1. Incredibly fast
+2. Great UX
+3. Developer-focused
+
+Trade-off to accept: Less flexible
+
+
+⚖️ WHAT ACTUALLY MATTERED (Key Differentiators):
+  1. Linear: Incredibly fast
+  2. Notion: Extremely flexible
+  3. Trade-off: Less flexible vs Can be slow
+
+🗑️ INFORMATION DISCARDED (Not Useful):
+  • Feature count without quality assessment
+  • Hype from recent funding announcements
+  • Comparisons to tools you're not using
+  • Enterprise features you won't need
+
+⚠️ UNCERTAINTIES (I'm not guessing on these):
+  ⚠️ Individual experiences may vary based on specific use case
+  ⚠️ Prices and availability change frequently
+
+📊 CONFIDENCE LEVEL: VERY HIGH - Clear recommendation with minimal uncertainty
+
+📝 OPTIONS CONSIDERED:
+
+  ✅ RECOMMENDED Linear
+     Pros: Incredibly fast, Great UX, Developer-focused
+     Cons: Less flexible, Pricier per seat
+
+  ○ Notion
+     Pros: Extremely flexible, Good for documentation, Affordable
+     Cons: Can be slow, Steeper learning curve, Too much freedom
+
+======================================================================
